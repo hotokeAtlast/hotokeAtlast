@@ -1,43 +1,38 @@
-<details>
-  <summary><b>Click to expand my Skills!</b></summary>
+  <p align="center">
   <br>
-  I code in Python, JavaScript, and C++. I love building web apps!
-</details>
-
-
-`text
-This is text inside a simple, clean box.
-Perfect for a quick bio or a quote.`
-
-
-### Method C: The Table Box (For Grids and Columns)
-If you want to align things side-by-side or create a dedicated grid box, use an HTML table.
-
-```html
-<table>
-  <tr>
-    <td><b>Box 1: About Me</b><br>Hi, I'm a developer!</td>
-    <td><b>Box 2: Current Focus</b><br>Learning Cloud Architecture.</td>
-  </tr>
-</table>
-```
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200" alt="My Banner" width="100%">
+  <samp>
+HELLO THERE, IM <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://linktr.ee/stoicHotoke">AYUSH</a></b>.
+    <br>IM A DATA SCIENCE & ARTIFICIAL INTELLIGENCE UNDERGRADUATE STUDENT AT IIT Guwahati, India.<br>
+    BUILDING A CAREER IN OFFENSIVE SECURITY.
+</samp>
+    <br><br>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
+<details align="center" open="">
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: rgb(252, 98, 3); --darkreader-inline-color: var(--darkreader-text-fc6203, #fc721c);" data-darkreader-inline-color="">B O N F I R E &nbsp; L I T !</h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
+<!-- <p>Current Project: <a href="https://github.com/hotokeAtlast/[repo_name]"> [project name] </a></p> -->
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/stoicHotoke">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp; -->
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  <!-- &nbsp; -->
+  <!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a> -->
+</p> 
+</samp>
+</details>
+<hr>
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hotokeAtlast&show_icons=true&theme=radial)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotokeAtlast&layout=compact&theme=radial)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hotokeAtlast.hotokeAtlast)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://mymedialink)](https://linkedin.com/in/stoicHotoke)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://mymedialink)](https://twitter.com/notGerhman)
+<p>Credits: <a href="https://github.com/TanZng">TanZng</a></p>
